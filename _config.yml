@@ -32,7 +32,7 @@ me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-# me-img: "https://github.com/amatAf.png?size=500"
+me-img: "https://github.com/amatAf.png?size=500"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
