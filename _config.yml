@@ -27,7 +27,7 @@ background-img: "/img/qual-bg-(1).jpg"
 ##############################
 
 quote: "Where’s your will to be weird?"
-me-img: "/img/jetpacktocat.png"
+# me-img: "/img/jetpacktocat.png"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
