@@ -136,7 +136,7 @@ a {
     padding: 20px 0;
     border-bottom: none;
     letter-spacing: 1px;
-    background: rgb(45, 65, 190);
+    background: rgb(100, 100, 100);
     -webkit-transition:
       background 0.5s ease-in-out,
       padding 0.5s ease-in-out;
@@ -178,7 +178,7 @@ a {
 
   .intro-text {
     font-size: 1.6rem;
-    color: rgb(0, 0, 0);
+    color: rgb(45, 65, 190);
   }
 }
 
@@ -411,12 +411,12 @@ body {
 .img-me {
   z-index: 100;
   left: 0;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   margin-left: 0;
   border: 7px solid $background-color;
   border-radius: 100%;
   text-align: center;
-  color: #f2f2f2;
+  color: rgb(45, 65, 190);
   background-color: $background-color;
 }
