@@ -45,7 +45,7 @@ me-img: "https://github.com/amatAf.png?size=500"
 # Blog #
 ########
 
-post-preview-words: 96
+post-preview-words: 0
 paginate: 5
 email-share: False
 fb-share: False
@@ -57,7 +57,7 @@ pinterest-share: False
 pocket-share: False
 vkontakte-share: False
 
-disqus-shortname: "personal-jekyll-theme"
+disqus-shortname: False
 
 ############
 # Timeline #
