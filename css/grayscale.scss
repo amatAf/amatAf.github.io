@@ -373,7 +373,8 @@ body {
   -moz-animation: blink 0.7s infinite;
   animation: blink 0.7s infinite;
   font-size: 110%;
-  color: rgb(45, 65, 190);
+  color: rgb(110, 135, 235);
+  background-color: rgba(100, 100, 100, 0.75);
 }
 @keyframes blink {
   0% {
