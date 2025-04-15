@@ -407,3 +407,16 @@ body {
     opacity: 1;
   }
 }
+
+.img-me {
+  z-index: 100;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  margin-left: 0;
+  border: 7px solid $background-color;
+  border-radius: 100%;
+  text-align: center;
+  color: #f2f2f2;
+  background-color: $background-color;
+}
