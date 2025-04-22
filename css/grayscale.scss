@@ -366,15 +366,6 @@ em {
 body {
   -webkit-tap-highlight-color: rgba($font-color, 0.2);
 }
-
-.typed-cursor {
-  opacity: 1;
-  -webkit-animation: blink 0.7s infinite;
-  -moz-animation: blink 0.7s infinite;
-  animation: blink 0.7s infinite;
-  font-size: 110%;
-  color: rgb(110, 135, 235);
-}
 @keyframes blink {
   0% {
     opacity: 1;
