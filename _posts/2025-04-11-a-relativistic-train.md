@@ -131,7 +131,7 @@ I remember one day discussing the idea of playing Minecraft bedwars in a PhODS c
 
 (Sorry, I couldn’t find a more eloquent way of emphasising the importance of a moment as simple as gaming.)
 
-Eventually the frequency of these gaming sessions grew and so did the amount of people who joined us. ItsDenry, Ryang2, Sohlstyce, Apochrome, and Tristan all joined us at some point in playing Minecraft, and as a result a group chat was formed. Not long after, Jsaac and R3ality_cubed also joined us.
+Eventually the frequency of these gaming sessions grew and so did the amount of people who joined us. ItsDenry, Ryang2, Sohlstyce, Apochrome, and Tristan all joined us at some point in playing Minecraft, and as a result a group chat was formed. Jsaac and R3ality_cubed also joined us, despite not partaking in gaming.
 
 This all led to the creation of the PhODS SMP, which effectively destroyed my productivity all of winter break. I don’t regret it though, even after knowing the situation I am in now.
 
