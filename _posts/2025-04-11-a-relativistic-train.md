@@ -161,7 +161,7 @@ I know reading comprehension is a bad excuse. I’ve been told time and time aga
 
 It was just surprising how it hadn’t been a problem before, but it managed to pop up then. And I don’t think competition stress was the issue.
 
-I just made a mistake as trivial as leaving my wallet at home—but again maybe if I were a high roller in the first place I would’ve had a fat stack of cash in my pocket anyways.
+I just made a mistake as trivial as leaving my wallet at home—but again maybe if I were a high roller in the first place I would’ve had a fat stack of cash in my pocket.
 
 
 ### And the economy is going to shit.
