@@ -203,7 +203,7 @@ Similar to drawing, I believe that the power to explain anything you want cohere
 
 Also similar to drawing, I don’t have much experience in writing.
 
-As I haven’t been able to dedicate hours to this extent recently, spending time writing this makes for a great change of pace.
+As I haven’t been able to dedicate hours to this extent recently, spending time writing this truly makes for a great change of pace.
 
 I think I might want to write more like this in the future.
 
