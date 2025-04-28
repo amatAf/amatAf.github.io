@@ -45,7 +45,7 @@ me-img: "https://github.com/amatAf.png?size=500"
 # Blog #
 ########
 
-post-preview-words: False
+post-preview-words: 0
 paginate: 5
 email-share: False
 fb-share: False
