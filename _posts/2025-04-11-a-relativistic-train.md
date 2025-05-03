@@ -10,15 +10,15 @@ tags: []
 Today is April 11th, 2025. Anyone who knows me knows that I have dreamt of this tomorrow for around two and a half years now, hoping for a certain result. But judging by this page’s existence, you can already guess what happened. But don’t worry about the length of the sidebar, I’m not crying about it. Just reminiscing and thinking. 
 
 Writing in the style of Julian Gough, I present two versions of my current feelings:
-
+<br>
 ### Short, Dry Version
-
+<br>
 I studied physics for two and a half years, divesting time from other activities that I could’ve taken part in, with a goal of becoming a member of the United States Physics Team during the summer of 2025. But I didn’t (as in I am 99.999% sure that I didn’t) make the cut, by multiple avoidable strokes of carelessness.
 
 Nevertheless, all is well and I have not given up (why would I?) on this subject. I guess I will further procrastinate my results by aiming at an IPhO participation in 2026, where then I can possibly meet the many people I have met online in person.
-
+<br>
 ### More Emotional Version
-
+<br>
 I tried to catch a relativistic train. But I forgot my wallet at home. And the economy is going to shit.
 
 I know that string of words doesn’t make a whole lot of sense, but I believe it perfectly encapsulates how I presently feel. Obviously however, since I am writing to you who is reading this right now… I need to say a little more.
@@ -26,9 +26,9 @@ I know that string of words doesn’t make a whole lot of sense, but I believe i
 But that is the core:
 
 I tried to catch a relativistic train. But I forgot my wallet at home. And the economy is going to shit.
-
+<br>
 ### From The Beginning
-
+<br>
 I don’t think I have ever written anything about what I have done in physics, so this is a little fun. I also don’t think that I come off as an introspective type of person, so this might read like a bit of a surprise.
 
 To add a small heads-up, throughout this ‘preface’ I will mention the usernames of some people who have played some role in my physics life. If you have been mentioned—congrats! You have had a positive impact on my life, however large or small it might have been! However, it goes without saying that if you haven’t been mentioned, it obviously doesn’t imply the inverse.
@@ -38,9 +38,9 @@ I’ll admit, it feels a little awkward to be freely throwing out names just lik
 I also want to say that I’ve always taken interest in how events shape peoples’ lives, so I heavily encourage everyone reading this to write something similar.
 
 Anyways, I guess I’ll begin now.
-
+<br>
 ### From The Very Beginning
-
+<br>
 If you asked me why I began physics in the first place, I couldn’t even really tell you. It wasn’t like I had my parents pushing me to study anything—I had wasted my life away for the past two years and I probably could have kept on doing that if I so pleased.
 
 My best explanation is that I wanted to prove myself. I had always thought of myself as a smart kid, since I did everything mathematical mentally and had a high IQ score (both of which I now realize don’t really determine your intelligence… to an extent). But I didn’t really have anything to show for it. As I said before, I was in a pretty big slump—mostly attributed to the COVID-19 pandemic.
@@ -72,9 +72,9 @@ I joined PhODS in April of 2023. I remember my first message was actually a ques
 Going a bit off topic, I remember posting the physics problems and physics activities I was writing and doing to my Instagram stories and profile, where a lot of people I knew well and didn’t know well saw. Safe to say I didn’t really know how to use Instagram. They’re all deleted or expired now.
 
 Now back to PhODS. I became fairly active there, and gradually started building connections. Other than that, I don’t remember much more, besides that I probably wasn’t very helpful or smart.
-
+<br>
 ### Back to the Beginning
-
+<br>
 A little bit before my sophomore year of high school, I dipped my toes into the tried and tested methods of physics olympiad preparation—working through Physics by Halliday Resnick and Krane. After working past the first volume, I started Electricity and Magnetism by Edward Purcell and David Morin instead of starting the second volume.
 
 Then F=ma exam season rolled around.
@@ -102,9 +102,9 @@ I won’t discuss why for certain reasons. But you should go watch it if you hav
 (Also during that time in Shanghai, I picked up a copy of 国际物理奥赛的培训与选拔 by 郑永令!)
 
 Besides my exam failure, nothing incredibly interesting happened. It was mostly just learning and doing problems according to a standard route.
-
+<br>
 ### The Beginning of the Endgame
-
+<br>
 My junior year of highschool was when I finally started working on Kevin Zhou’s olympiad handouts, the best high level physics olympiad resource. It also marked the point where I was reputable enough to be a trustworthy source in physics discussion, and thus propelled me to a point where I actually began having memorable interactions with PhODS members.
 
 My first of these was when I teamed up with Accuide and 0^0 for OPhO, a three day online competition. Although we missed the invitationals cutoff by a few questions, I was somewhat satisfied with my performance, as I wasn’t getting completely carried by my teammates—I believe I had exactly one third of our total solves, despite making an unammusing amount of factor of two errors. It was fun, and I must thank both Accuide and 0^0 for committing their time to grinding this competition with me.
@@ -126,9 +126,9 @@ This all led to the creation of the PhODS SMP, which effectively destroyed my pr
 I am also grateful to have met other great people through the medium of PhODS voice channels, including GusterBuster27, Jhiliard, Trekr, Lilian, SPYDUKC, Deleted, and ENTL (without counting names I have already mentioned before). I have also met many great people solely through chat interaction, which I will not list since there are simply too many.
 
 But enough reminiscing—I’ll just get to the point.
-
+<br>
 ### I tried to catch a relativistic train.
-
+<br>
 I realize that the next time I will have an opportunity to have a chance at camp is one year from now. If I did make it, time would’ve probably flown by. But this one year until the next time this train of opportunity pulls back into the station feels like forever.
 
 Last year’s one year felt so short since I had so much more to learn. This year’s one year feels dilated because I know I could have camped.
@@ -136,9 +136,9 @@ Last year’s one year felt so short since I had so much more to learn. This yea
 But I didn’t.
 
 So that leads me to my next point:
-
+<br>
 ### But I forgot my wallet at home.
-
+<br>
 I attribute most of my point margin from camp to reading comprehension. I missed 1.3 problems because of it. Worst of all, 1.3 simple problems.
 
 I know reading comprehension is a bad excuse. I’ve been told time and time again, “reading comprehension is an important skill.”
@@ -146,9 +146,9 @@ I know reading comprehension is a bad excuse. I’ve been told time and time aga
 It was just surprising how it hadn’t been a problem before, but it managed to pop up then. And I don’t think competition stress was the issue.
 
 I just made a mistake as trivial as leaving my wallet at home—but again maybe if I were a high roller in the first place I would’ve had a fat stack of cash in my pocket.
-
+<br>
 ### And the economy is going to shit.
-
+<br>
 Unrelated to current events, I know that next year’s train tickets will be a lot harder for me to buy.
 
 The difference between a USAPhO top 20 scorer and USAPhO top 10 scorer is huge. AAPT made it that way to ensure that only potential IPhO competitors can make it in.
@@ -156,11 +156,9 @@ The difference between a USAPhO top 20 scorer and USAPhO top 10 scorer is huge. 
 This means I will have to reach an IPhO level of knowledge.
 
 It will be hard, but it’s probably doable, so long as I don’t pull anything stupid again.
-
-
+<br>
 ### It’s all just kind of a shame. And a bit of a woozy.
-
-
+<br>
 I really love that emoji. But that’s besides the point.
 
 I was initially extremely upset when I woke up, immediately getting hit by the “realization” stage of grief. During that short period of time, I thought of writing this, and now here I am.
