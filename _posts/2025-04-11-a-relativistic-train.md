@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-has-comments: true
+has-comments: false
 title: A Relativistic Train
 category: physics
 tags: []
