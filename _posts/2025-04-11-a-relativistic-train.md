@@ -11,17 +11,13 @@ Today is April 11th, 2025. Anyone who knows me knows that I have dreamt of this 
 
 Writing in the style of Julian Gough, I present two versions of my current feelings:
 
-
 ### Short, Dry Version
-
 
 I studied physics for two and a half years, divesting time from other activities that I could’ve taken part in, with a goal of becoming a member of the United States Physics Team during the summer of 2025. But I didn’t (as in I am 99.999% sure that I didn’t) make the cut, by multiple avoidable strokes of carelessness.
 
 Nevertheless, all is well and I have not given up (why would I?) on this subject. I guess I will further procrastinate my results by aiming at an IPhO participation in 2026, where then I can possibly meet the many people I have met online in person.
 
-
 ### More Emotional Version
-
 
 I tried to catch a relativistic train. But I forgot my wallet at home. And the economy is going to shit.
 
@@ -31,9 +27,7 @@ But that is the core:
 
 I tried to catch a relativistic train. But I forgot my wallet at home. And the economy is going to shit.
 
-
 ### From The Beginning
-
 
 I don’t think I have ever written anything about what I have done in physics, so this is a little fun. I also don’t think that I come off as an introspective type of person, so this might read like a bit of a surprise.
 
@@ -45,9 +39,7 @@ I also want to say that I’ve always taken interest in how events shape peoples
 
 Anyways, I guess I’ll begin now.
 
-
 ### From The Very Beginning
-
 
 If you asked me why I began physics in the first place, I couldn’t even really tell you. It wasn’t like I had my parents pushing me to study anything—I had wasted my life away for the past two years and I probably could have kept on doing that if I so pleased.
 
@@ -81,9 +73,7 @@ Going a bit off topic, I remember posting the physics problems and physics activ
 
 Now back to PhODS. I became fairly active there, and gradually started building connections. Other than that, I don’t remember much more, besides that I probably wasn’t very helpful or smart.
 
-
 ### Back to the Beginning
-
 
 A little bit before my sophomore year of high school, I dipped my toes into the tried and tested methods of physics olympiad preparation—working through Physics by Halliday Resnick and Krane. After working past the first volume, I started Electricity and Magnetism by Edward Purcell and David Morin instead of starting the second volume.
 
@@ -113,9 +103,7 @@ I won’t discuss why for certain reasons. But you should go watch it if you hav
 
 Besides my exam failure, nothing incredibly interesting happened. It was mostly just learning and doing problems according to a standard route.
 
-
 ### The Beginning of the Endgame
-
 
 My junior year of highschool was when I finally started working on Kevin Zhou’s olympiad handouts, the best high level physics olympiad resource. It also marked the point where I was reputable enough to be a trustworthy source in physics discussion, and thus propelled me to a point where I actually began having memorable interactions with PhODS members.
 
@@ -139,9 +127,7 @@ I am also grateful to have met other great people through the medium of PhODS vo
 
 But enough reminiscing—I’ll just get to the point.
 
-
 ### I tried to catch a relativistic train.
-
 
 I realize that the next time I will have an opportunity to have a chance at camp is one year from now. If I did make it, time would’ve probably flown by. But this one year until the next time this train of opportunity pulls back into the station feels like forever.
 
@@ -151,9 +137,7 @@ But I didn’t.
 
 So that leads me to my next point:
 
-
 ### But I forgot my wallet at home.
-
 
 I attribute most of my point margin from camp to reading comprehension. I missed 1.3 problems because of it. Worst of all, 1.3 simple problems.
 
@@ -163,9 +147,7 @@ It was just surprising how it hadn’t been a problem before, but it managed to 
 
 I just made a mistake as trivial as leaving my wallet at home—but again maybe if I were a high roller in the first place I would’ve had a fat stack of cash in my pocket.
 
-
 ### And the economy is going to shit.
-
 
 Unrelated to current events, I know that next year’s train tickets will be a lot harder for me to buy.
 
