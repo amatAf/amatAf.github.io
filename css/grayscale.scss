@@ -163,7 +163,7 @@ a {
   position: relative;
   flex-direction: column;
   width: 100%;
-  padding-top: 14rem;
+  padding-top: 15rem;
   height: 100svh;
   text-align: center;
   color: $font-color;
@@ -397,7 +397,7 @@ body {
 .img-me {
   width: 12rem; /* Golden Ratio Size (lineHeight * Φ^3) */
   height: 12rem; /* Golden Ratio Size (lineHeight * Φ^3) */
-  border: 0.4375rem solid rgb(100, 100, 100);
+  border: 0.26rem solid rgb(100, 100, 100);
   border-radius: 100%; /* Make it circular */
   background-color: rgb(100, 100, 100); /* Fallback background */
   color: rgb(100, 100, 100); /* Fallback text color */
