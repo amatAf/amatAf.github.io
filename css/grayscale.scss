@@ -393,15 +393,15 @@ body {
     opacity: 1;
   }
 }
-
 .img-me {
-  z-index: 125;
-  left: 0;
-  width: 200px;
-  height: 200px;
-  margin-left: 0;
-  border: 7px solid rgb(100, 100, 100);
-  border-radius: 100%;
-  text-align: center;
-  background-color: rgb(100, 100, 100);
+  width: 8.12rem; /* Golden Ratio Size (lineHeight * Φ^3) */
+  height: 8.12rem; /* Golden Ratio Size (lineHeight * Φ^3) */
+  border: 0.4375rem solid rgb(100, 100, 100);
+  border-radius: 100%; /* Make it circular */
+  background-color: rgb(100, 100, 100); /* Fallback background */
+  color: rgb(100, 100, 100); /* Fallback text color */
+  /* Ensure it behaves like an image block */
+  display: block;
+  margin: 0 auto; /* Center it horizontally */
+  cursor: pointer; /* Add pointer cursor since it's a link */
 }
