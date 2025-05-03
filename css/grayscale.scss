@@ -175,12 +175,6 @@ a {
   background-image: url("{{ site.baseurl }}/img/qual-bg-(1).jpg");
   background-position: center center;
   background-repeat: none;
-
-  .intro-text {
-    font-size: 1.6rem;
-    color: rgb(110, 135, 235);
-    background-color: rgba(100, 100, 100, 0.90);
-  }
 }
 
 .intro:after {
@@ -401,7 +395,7 @@ body {
 }
 
 .img-me {
-  z-index: 125;
+  z-index: 100;
   left: 0;
   width: 200px;
   height: 200px;
