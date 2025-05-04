@@ -53,7 +53,7 @@ So, I decided to begin olympiad physics. It might be important to note that I ha
 
 But why physics in particular? From here it deviates from “I have some foggy memory of this being true” to pure speculation. Yes, I am speculating and theorizing about my 14 year old self. That’s how bad my memory is.
 
-If I had to guess, I would say that my interests slightly leaned towards science. I would probably credit this to the forces of early childhood NOVA documentaries and elementary school consumption of the Popular Science magazine. This combined with me being a very straightforward type of person who likes to see clearly what is really going on—if I can’t see it it isn’t real caveman logic—I settled on the science of physics.
+If I had to guess, I would say that my interests slightly leaned towards science. I would probably credit this to the forces of early childhood NOVA documentaries and elementary school consumption of the Popular Science magazine. This combined with me being a very straightforward type of person who likes to see clearly what is really going on—if I can’t see it it isn’t real caveman logic—made me settle on the science of physics.
 
 My first experience with physics was buying an international version of Introduction to Classical Mechanics by David Morin. If you know anything about that book, you would know that an absolute beginner would most definitely make no sense of it. And sure enough, I didn’t.
 
