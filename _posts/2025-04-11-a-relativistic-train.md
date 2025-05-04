@@ -80,7 +80,7 @@ Now back to PhODS. I became fairly active there, and gradually started building 
 <br>
 ### Back to the Beginning
 <br>
-A little bit before my sophomore year of high school, I finally dipped my toes into the tried and tested methods of physics olympiad preparation—working through Physics by Halliday Resnick and Krane. After working past the first volume, I started Electricity and Magnetism by Edward Purcell and David Morin instead of starting the second volume.
+A little bit before my sophomore year of high school, I finally dipped my toes into the tried and tested methods of physics olympiad preparation, which was working through Physics by Halliday, Resnick, and Krane. After finishing the first volume, I started Electricity and Magnetism by Edward Purcell and David Morin instead of starting the second volume.
 
 Then F=ma exam season rolled around.
 
