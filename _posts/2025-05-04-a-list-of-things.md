@@ -15,7 +15,7 @@ And it’s pretty hard, man.
 <br>
 <br>
 ### But I’ll begin.
-
+<br>
 - “Schadenfreude”
 - [Super Mario World Ending Theme](https://youtu.be/b9IkpUYlOx8?si=rP-r_oB11mZXm6eA) sight-read by Tom Brier
 - “Happenstance”
@@ -35,7 +35,7 @@ And it’s pretty hard, man.
 - Easy super smelter [tutorial](https://www.instagram.com/p/DGGZP3UpFEx/)
 - “How you do anything is how you do everything.”
 - Randy Pausch Last Lecture: [Achieving Your Childhood Dreams](https://youtu.be/ji5_MqicxSo?si=sTzZiP_ydBl3XGQ8)
-<br>
+
 <br>
 ### I will probably
 add more to this list in the future, as I have many more bright years of doomscrolling ahead of me. So maybe come back later? Just know that I will continuously update the post date as I add more items.
