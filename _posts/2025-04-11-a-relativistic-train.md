@@ -7,7 +7,7 @@ category: physics
 tags: []
 ---
 
-Today is April 11th, 2025. Anyone who knows me knows that I have dreamt of this tomorrow for around two and a half years now, hoping for a certain result. But judging by this page’s existence, you can already guess what happened. Also, don’t worry about the length of the sidebar. I’m not crying about it. Just reminiscing and thinking. 
+Today is April 11th, 2025. Anyone who knows me knows that I have dreamt of this tomorrow for around two and a half years now, hoping for a certain result. But from judging by this page’s existence, you can already guess what happened. However, don’t worry about the length of the sidebar. I’m not crying about it. Just reminiscing and thinking. 
 
 Writing in the style of Julian Gough, I present two versions of my current feelings:
 <br>
@@ -80,7 +80,7 @@ Now back to PhODS. I became fairly active there, and gradually started building 
 <br>
 ### Back to the Beginning
 <br>
-A little bit before my sophomore year of high school, I finally dipped my toes into the tried and tested methods of physics olympiad preparation—working through Physics by Halliday Resnick and Krane. After working past the first volume, I started Electricity and Magnetism by Edward Purcell and David Morin instead of starting the second volume.
+A little bit before my sophomore year of high school, I finally dipped my toes into the tried and tested methods of physics olympiad preparation, which was working through Physics by Halliday, Resnick, and Krane. After finishing the first volume, I started Electricity and Magnetism by Edward Purcell and David Morin instead of starting the second volume.
 
 Then F=ma exam season rolled around.
 
