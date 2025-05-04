@@ -136,7 +136,7 @@ But enough reminiscing—I’ll just get to the point.
 <br>
 ### I tried to catch a relativistic train.
 <br>
-I realize that the next time I will have an opportunity to have a chance at camp is one year from now. If I did make it, time would’ve probably flown by. But this one year until the next time this train of opportunity pulls back into the station feels like forever.
+I realize that the next time I will have an opportunity to have a chance at camp is one year from now. If I did make it, time probably would’ve flown by. But this one year until the next time this train of opportunity pulls back into the station feels like forever.
 
 Last year’s one year felt so short since I had so much more to learn. This year’s one year feels dilated because I know I could have camped.
 
