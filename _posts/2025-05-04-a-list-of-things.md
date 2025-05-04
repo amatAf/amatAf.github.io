@@ -9,7 +9,7 @@ tags: []
 
 During my time on the internet, I have been saving random interesting things I find. It could range from funny to whimsical, and originate from platforms from discord to instagram. It could even just be a word I really like, or a phrase, or a quote. I’ll be listing these in increasing order of value to me.
 
-However, I must mention that it’s not like I don’t care that much about some of them. I’m ranking them as if I were reordering S-tier items in a tierlist.
+Regarding the quality of items on the list, I must mention that it’s not like I don’t care that much about the earlier ones. I’m ranking them as if I were ordering S to SSS items in a tierlist.
 
 And it’s pretty hard, man.
 
