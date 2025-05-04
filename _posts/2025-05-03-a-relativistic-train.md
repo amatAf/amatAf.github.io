@@ -80,7 +80,7 @@ Now back to PhODS. I became fairly active there, and gradually started building 
 <br>
 ### Back to the Beginning
 <br>
-A little bit before my sophomore year of high school, I dipped my toes into the tried and tested methods of physics olympiad preparation—working through Physics by Halliday Resnick and Krane. After working past the first volume, I started Electricity and Magnetism by Edward Purcell and David Morin instead of starting the second volume.
+A little bit before my sophomore year of high school, I finally dipped my toes into the tried and tested methods of physics olympiad preparation—working through Physics by Halliday Resnick and Krane. After working past the first volume, I started Electricity and Magnetism by Edward Purcell and David Morin instead of starting the second volume.
 
 Then F=ma exam season rolled around.
 
@@ -96,7 +96,7 @@ Not the greatest look and certainly not the greatest hit to my reputation.
 
 I guess that’s what overconfidence gets you.
 
-In retrospect I would have rather learned my lesson in humility then than later in the future—I would even go as far to say that more people need an event like that to happen to them. Humility really doesn’t seem like a common trait nowadays. And I feel like this sentiment is shared by most of the people I know.
+In retrospect I would have rather learned my lesson in humility then than later in the future—I would even go as far as to say that more people need an event like that to happen to them. Humility really doesn’t seem like a common trait nowadays. And I feel like this sentiment is shared by most of the people I know.
 
 Eventually, I got back on track and finished Purcell and the non-EM non-nuclear section of HRK. Most of this was due to arguably one of the most impactful events of my life:
 
@@ -106,7 +106,7 @@ I won’t discuss why for certain reasons. But you should go watch it if you hav
 
 (Also during that time in Shanghai, I picked up a copy of 国际物理奥赛的培训与选拔 by 郑永令!)
 
-Besides my exam failure, nothing incredibly interesting happened. It was mostly just learning and doing problems according to a standard route.
+There really isn't much else to say. Besides my exam failure, nothing incredibly interesting happened. It was mostly just learning and doing problems according to a standard route.
 <br>
 <br>
 ### The Beginning of the Endgame
@@ -119,7 +119,7 @@ Similarly, when Physics Brawl rolled around, I again managed to clinch a spot on
 
 (I want to throw out that somewhere in the middle of this I watched Frieren: Beyond Journey’s End. Also one of my most life-changing events.)
 
-While those connections stemmed from the competitive aspect of olympiad physics, my strongest connections derived from its community aspect.
+But while those connections stemmed from the competitive aspect of olympiad physics, my strongest connections derived from its community aspect.
 
 I remember one day discussing the idea of playing Minecraft bedwars in a PhODS call with a guy primarily known for the rotisserie chicken he bought at a Costco. Later that night, me and the guy, Yukko, along with Lightmargin hopped into a call and did just that.
 
@@ -129,7 +129,7 @@ Eventually the frequency of these gaming sessions grew and so did the amount of 
 
 This all led to the creation of the PhODS SMP, which effectively destroyed my productivity all of winter break. I don’t regret it though, even after knowing the situation I am in now.
 
-I am also grateful to have met other great people through the medium of PhODS voice channels, including GusterBuster27, Jhiliard, Trekr, Lilian, SPYDUKC, Deleted, and ENTL (without counting names I have already mentioned before). I have also met many great people solely through chat interaction, which I will not list since there are simply too many.
+Altogether, meeting people through PhODS has been an amazing experience. I am extremely grateful to have met other incredible people through the medium of PhODS voice channels, including GusterBuster27, Jhiliard, Trekr, Lilian, SPYDUKC, Deleted, and ENTL (without counting names I have already mentioned before). I have also met many great people solely through chat interaction, which I will not list since there are simply too many.
 
 But enough reminiscing—I’ll just get to the point.
 <br>
@@ -173,11 +173,11 @@ I really love that emoji. But that’s besides the point.
 
 I was initially extremely upset when I woke up, immediately getting hit by the “realization” stage of grief. During that short period of time, I thought of writing this, and now here I am.
 
-Although my sadness has passed, it’s still hard to not be disappointed, but I realize I have better things to worry about.
+Although my sadness has passed, it’s still hard to not be disappointed. But I realize I have better things to worry about.
 
 Before the exam, I had so many things I wanted to learn but had to delay due to the tightness of my schedule. Now that I do have what feels like infinite time, I can finally start working on them. For instance:
 
-I had promised one of my friends that I would begin to commit time to learn how to draw, and I owe it to her since the reason that we became friends is because I randomly reached out to her many months ago asking for advice on how to start. My motivations are not entirely based on guilt however—I firmly believe that the power to create anything you want is an immensely useful and impressive skill to possess.
+I had promised one of my friends that I would begin to commit time to learn how to draw, and I owe it to her since the reason that we became friends is because I randomly reached out to her many months ago asking for advice on how to start. But my motivations are not entirely based on guilt however—I firmly believe that the power to create anything you want is an immensely useful and impressive skill to possess.
 
 I have also wanted to become good at poker for a while, since apparently it’s an easy transition from chess and actually makes money. And also because I want to take money from my friends.
 
@@ -201,7 +201,7 @@ So yeah, that’s basically my centerpiece for the past two and a half years of 
 
 I hope you learned something about me.
 
-
+<br>
 With love,
 
 amatAf
