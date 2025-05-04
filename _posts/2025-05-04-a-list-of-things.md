@@ -20,7 +20,7 @@ And it’s pretty hard, man.
 - [Super Mario World Ending Theme](https://youtu.be/b9IkpUYlOx8?si=rP-r_oB11mZXm6eA) sight-read by Tom Brier
 - “Happenstance”
 - “Crestfallen”
-- Something Comforting [music video](https://youtu.be/-C-2AqRD8io?si=2-nKSxFCjtaRJZSJ)
+- Porter Robinson - Something Comforting ([Official Music Video](https://youtu.be/-C-2AqRD8io?si=2-nKSxFCjtaRJZSJ))
 - “Zephyr: deemed one of the most beautiful words in the English language due to its euphony rare sighting and letter composition. Greek origin //ZƐF ƏR// Zephyr: a gentle, mild breeze. It does not disrupt, nor cause chaos, it merely brings a pleasant sensation on a warm summer day.”
 - The Quiet Sadness of [Mario Galaxy](https://www.youtube.com/watch?v=IZ1y75vxO0o&list=PLOcM-4gIkLVyN0pTxq-Wh2uIuORW_N7V5)
 - [Amos, Amas, Amateur](https://www.vocabulary.com/articles/candlepwr/amo-amas-amateur/#:~:text=Its%20first%20three%20letters%20are,%2Fshe%2Fit%20loves.)
