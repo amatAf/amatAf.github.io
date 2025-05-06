@@ -12,7 +12,7 @@ Because I am a (self proclaimed) normal person, I consume a lot of media. With t
 <br>
 ### Changed my life (10/10)
 <br>
-All of these have greatly impacted my character—the anime speaks for itself when you watch it. In the order of when I watched it:
+All of these have greatly impacted my character in an indescribable way—the anime speaks for itself when you watch it. In the order of when I watched it:
 
 - Cyberpunk: Edgerunners
 - Frieren: Beyond Journey’s End
