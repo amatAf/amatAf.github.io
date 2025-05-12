@@ -33,6 +33,7 @@ And it’s pretty hard, man.
 - Porter Robinson & Madeon - Shelter ([Official Video](https://youtu.be/fzQ6gRAEoy0?si=-ZDMLn9qd3uP4CEw)) (Short Film with A-1 Pictures & Crunchyroll)
 - “[I could never do this](https://twitter.com/Keegan59992745/status/1886217607595938073). My liked songs tell the story of the last 5 years of my life. You guys are fake asf for abandoning a song just because you don’t like it now. How would 15 year old you feel about you getting rid of that XXXTENTACION song that they loved?”
 - Easy super smelter [tutorial](https://www.instagram.com/p/DGGZP3UpFEx/)
+- [ALIEN STAGE](https://www.youtube.com/watch?v=vYikmsPVq_c&list=PLpt7uDVri02Tc4nYYOwVrhY1R3c1DJgGE) (the entire playlist)
 - “How you do anything is how you do everything.”
 - Randy Pausch Last Lecture: [Achieving Your Childhood Dreams](https://youtu.be/ji5_MqicxSo?si=sTzZiP_ydBl3XGQ8)
 
