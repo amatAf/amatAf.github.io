@@ -31,11 +31,11 @@ And it’s pretty hard, man.
 - THE HISTORY OF [SLIPPING ON BANANA PEELS](https://youtu.be/p8W5GCnqT_M?si=NrB0pQODCFIGQXEP)
 - “Pinch me, I’m dreaming.”
 - “This week I had one of the most illuminating experiences of my life. A bunch of teenagers and I were shipped off to attend a ridiculously funny lecture entitled 'Physics and Life' where a foreign physicist tried to explain everyday life using physics terminology. Did you know that the force of love is just the addition of the coulomb force and van der Waals force? Did you know that your happiness factor can easily be calculated through these graphs and simple straightforward equations requiring zero differentials? Did you know that marriage is merely a fusion reaction and divorce is fission? And kissing is merely a form of Total Inelastic Collision? And angular momentum is nothing but the motion of love?”
-- Porter Robinson & Madeon - Shelter ([Official Video](https://youtu.be/fzQ6gRAEoy0?si=-ZDMLn9qd3uP4CEw)) (Short Film with A-1 Pictures & Crunchyroll)
 - “[I could never do this](https://twitter.com/Keegan59992745/status/1886217607595938073). My liked songs tell the story of the last 5 years of my life. You guys are fake asf for abandoning a song just because you don’t like it now. How would 15 year old you feel about you getting rid of that XXXTENTACION song that they loved?”
 - Easy super smelter [tutorial](https://www.instagram.com/p/DGGZP3UpFEx/)
 - [ALIEN STAGE](https://www.youtube.com/watch?v=vYikmsPVq_c&list=PLpt7uDVri02Tc4nYYOwVrhY1R3c1DJgGE) (the entire playlist)
 - “How you do anything is how you do everything.”
+- Porter Robinson & Madeon - Shelter ([Official Video](https://youtu.be/fzQ6gRAEoy0?si=-ZDMLn9qd3uP4CEw)) (Short Film with A-1 Pictures & Crunchyroll)
 - Randy Pausch Last Lecture: [Achieving Your Childhood Dreams](https://youtu.be/ji5_MqicxSo?si=sTzZiP_ydBl3XGQ8)
 
 <br>
