@@ -94,6 +94,8 @@ author_blurb_image: False
 social:
   - icon: "github"
     url: "https://github.com/amatAf"
+  - icon: "steam"
+    url: "https://steamcommunity.com/profiles/76561199099808313/"
   - icon: "twitter"
     url: "https://twitter.com/amatafaf"
   - icon: "spotify"
