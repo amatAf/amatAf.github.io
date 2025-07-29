@@ -20,7 +20,7 @@ All of these have greatly impacted my character in an indescribable way—the an
 <br>
 ### Obsessed with for a while (>9/10)
 <br>
-Although they aren’t on the level of life changing, they definitely are very close and definitely captivated me for some time.
+Although they definitely aren’t on the level of life changing, they definitely did captivate me for some time.
 
 - Your Name
 - Weathering With You
@@ -36,6 +36,7 @@ I was definitely somewhat interested in these, but at the end of the day they di
 - Invincible
 - Chainsaw Man
 - Devil May Cry
+- Lazarus
 
 <br>
 ### Made me want to stop watching (<6/10)
