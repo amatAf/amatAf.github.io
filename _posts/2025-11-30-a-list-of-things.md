@@ -38,6 +38,7 @@ And it’s pretty hard, man.
 - [ALIEN STAGE](https://www.youtube.com/watch?v=vYikmsPVq_c&list=PLpt7uDVri02Tc4nYYOwVrhY1R3c1DJgGE) (the entire playlist)
 - “How you do anything is how you do everything.”
 - Porter Robinson & Madeon - Shelter ([Official Video](https://youtu.be/fzQ6gRAEoy0?si=-ZDMLn9qd3uP4CEw)) (Short Film with A-1 Pictures & Crunchyroll)
+- [Ephemerality](https://en.wikipedia.org/wiki/Ephemerality): Ephemerality (from Ancient Greek ἐφήμερος (ephēmeros) 'lasting only a day') is the concept of things being transitory, existing only briefly. Academically, the term ephemeral constitutionally describes a diverse assortment of things and experiences, from digital media to types of ponds and streams. "There is no single definition of ephemerality". With respect to unique performances, for example, it has been noted that "[e]phemerality is a quality caused by the ebb and flow of the crowd's concentration on the performance and a reflection of the nostalgic character of specific performances". Because different people may value the passage of time differently, ephemerality may be a relative, perceptual concept: "In brief, what is short-lived may not be the object itself, but the attention we afford it".
 - Randy Pausch Last Lecture: [Achieving Your Childhood Dreams](https://youtu.be/ji5_MqicxSo?si=sTzZiP_ydBl3XGQ8)
 
 <br>
